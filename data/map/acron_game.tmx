@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="bg" tilewidth="32" tileheight="32">
+  <image source="../gfx/light_forest_tileset_0.png" width="256" height="608"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxzZGBgcETClAJHHJja5pFrJj7zyDGXGPNIMXOgzCPWzIE0jxgzSTWPkJmj5lFmJrXNAwD+NSih
+  </data>
+ </layer>
+</map>
